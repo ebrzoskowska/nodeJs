@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/ebrzoskowska/nodeJs/issues"
   },
-  "homepage": "https://github.com/ebrzoskowska/nodeJs#readme"
+  "homepage": "https://github.com/ebrzoskowska/nodeJs#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }

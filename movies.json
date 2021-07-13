@@ -1,8 +1,17 @@
 [
  {
-  "movie": "new"
+  "movie": "Bad Boys"
  },
  {
-  "movie": "movie"
+  "movie": "Batman"
+ },
+ {
+  "movie": "Spiderman"
+ },
+ {
+  "movie": "Black Panther"
+ },
+ {
+  "movie": "Avengers"
  }
 ]

@@ -1,5 +1,5 @@
 {
-  "name": "NetflixCLI",
+  "name": "netflixcli",
   "version": "1.0.0",
   "description": "��#\u0000 \u0000n\u0000o\u0000d\u0000e\u0000J\u0000s\u0000\r\u0000 \u0000",
   "main": "index.js",
@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/ebrzoskowska/nodeJs#readme",
   "dependencies": {
-    "prompt-sync": "^4.2.0"
-  }
+    "prompt-sync": "^4.2.0",
+    "yargs": "^17.0.1"
+  },
+  "devDependencies": {}
 }

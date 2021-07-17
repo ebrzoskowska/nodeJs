@@ -8,6 +8,7 @@ const yargs = require("yargs");
 // here we require input from user
 const prompt = require('prompt-sync')();
 
+// here is variable which stores a command on second index from command line array
 const command = process.argv[2];
 
 // an empty movie list
@@ -79,25 +80,3 @@ const edt = () => {
 };
 
 edt();
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
